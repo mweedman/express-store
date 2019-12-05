@@ -18,7 +18,7 @@
   "rules": {
       "strict": ["error", "safe"],
       "eqeqeq":"error",
-      "no-console": "warn",
+      "no-console": "off",
       "no-unused-vars": "warn",
       "no-eval": "error",
       "indent": ["error", 2],      
